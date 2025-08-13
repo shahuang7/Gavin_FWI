@@ -1,0 +1,186 @@
+Item Number,Component number,Object description,Assembly indicator
+10.0,1136907-01,"Assy, Diorite B1 FullRock 48GB, 1x200GbE",Yes
+20.0,1107157-01,"Cable, HDMI, Standard Type A Male-to- St",No
+30.0,1098823-01,"Cable, Power, Diorite to Dedicated Conn,",No
+40.0,1112593-02,"ASM, Tray Cover, Air Baffle, Astoria, EV",No
+40.0,1112593-02-FLG,"ASM, Tray Cover, Air Baffle, Astoria(FLE",No
+50.0,1134400,"Assy, x16x16 IO Module",No
+50.0,1134400-01,"Assy, x16x16 IO Module Bracket, Improved",No
+50.0,1134400-01-FGZ,"Assy, x16x16 IO Module Bracket, Improved",No
+50.0,1134400-01-FLG,"Assy, x16x16 IO Module Bracket, Improved",No
+50.0,1134400-FLG,"Assy, x16x16 IO Module Bracket, Improved",No
+60.0,1114467,"Screw, Flathead, Low thickness head, Phi",No
+70.0,1136798,"Options, CSSD-PH2X, PCBA, 128GB Raw, 100",Yes
+80.0,1136856-03,"Option, Cable, PCIe Cable, 1 x16 Short I",Yes
+100.0,1182049,"Option, Memory, 64GB, 10x4, 2Rx4 RANK, D",Yes
+110.0,1182060,"Option, PCBA, Habanero16, Interface Card",Yes
+120.0,07087259,"Label, Blank, White, 0.25"" x 1.25"", Poly",No
+130.0,1150248,"LABEL, SYSTEM, agency, Astoria, COO Fii",No
+140.0,1117606-01,"Packaging, Top Level Assembly, Truck Pac",No
+150.0,1154335,"Assy, Tray, ASTORIA, Base Config, PRD 96",Yes
+160.0,1174345,"Option, Assy, PDB Power Module, Gulp 150",Yes
+,1136907-01,"Assy, Diorite B1 FullRock 48GB, 1x200GbE",No
+10.0,1123935,"Assembly, Faceplate, Diorite, FRG, Low P",No
+10.0,1123935-FMP,"Assembly, Faceplate, Diorite, FRG, Low P",No
+20.0,07082350,"SCREW, PHP, 4-40 X .25 SQ CONE, STL, ZI",No
+30.0,1136908-01,"Option, Network Card, PCIE, Diorite Full",Yes
+,1136798,"Options, CSSD-PH2X, PCBA, 128GB Raw, 100",No
+10.0,1098743-03,"CSSD-PH2X, PCBA, 128GB Raw, 100GB Useabl",No
+20.0,1150307-03,"CSSD-Saola, PCBA, 128GB Raw, 100GB Useab",No
+30.0,1152231-03,"CSSD-Saola, PCBA, 128GB Raw, 100GB Useab",No
+50.0,1184683-01,"CSSD-Saola, PCBA, 128GB Raw, 100GB Useab",No
+60.0,1184690-01,"CSSD-Saola, PCBA, 128GB Raw, 100GB Useab",No
+,1136856-03,"Option, Cable, PCIe Cable, 1 x16 Short I",No
+20.0,1132030-01,"Assy, PCIe Cable, 1 x16 Short IO Adapter",No
+30.0,1181739-01,"Assy, PCIe Cable, 1 x16 Short IO Adapter",No
+40.0,1200195-01,"Assy, PCIe Cable, 1 x16 Short IO Adapter",No
+50.0,1202829-01,"Assy, PCIe Cable, 1 x16 Short IO Adapter",No
+,1182049,"Option, Memory, 64GB, 10x4, 2Rx4 RANK, D",No
+10.0,1106920-02,"Memory, 64GB, Micron-Renesas-MPS, DDR5,",No
+20.0,1112233-01,"Memory, 64GB, Hynix-Renesas-TI, DDR5-480",No
+30.0,1152076-01,"Memory, 64GB, Samsung-Rambus-MPS, DDR5,",No
+40.0,1160468-01,"Memory, 64GB, Samsung-Renesas-TI, DDR5,",No
+50.0,1158752-01,"Memory, 64GB, Micron-Rambus-MPS, DDR5, 5",No
+60.0,1112234-01,"Memory, 64GB, Hynix-Rambus-Renesas, DDR5",No
+70.0,1145816-01,"Memory, 64GB, Hynix-Montage-MPS, DDR5-56",No
+80.0,1145817-01,"Memory, 64GB, Hynix-Rambus-Renesas, DDR5",No
+,1182060,"Option, PCBA, Habanero16, Interface Card",No
+10.0,1115545-10,"Assy, PCBA, Habanero16, Interface Card,",No
+20.0,1115545-08,"Assy, PCBA, Habanero16, Interface Card,",No
+30.0,1115545-09,"Assy, PCBA, Habanero16, Interface Card,",No
+40.0,1199151-01,"Assy, PCBA, Habanero16, Interface Card,",No
+,1154335,"Assy, Tray, ASTORIA, Base Config, PRD 96",No
+10.0,1148272,"ASM, Base, Tray, IZU/AST, L11",No
+10.0,1148272-FLG,"ASM, Base, Tray, IZU/AST, L11",No
+20.0,1110819,"ASM, PDB Ejection Module, Mobo Bottom Br",No
+20.0,1110819-01,"ASM, PDB Ejection Module, Mobo Bottom Br",No
+20.0,1110819-01-FMP,"ASM, PDB Ejection Module, Mobo Bottom Br",No
+20.0,1110819-FMP,"ASM, PDB Ejection Module, Mobo Bottom Br",No
+30.0,1110820-01,"ASM, PDB Ejection Module, Board to Board",No
+30.0,1110820-01-FMP,"ASM, PDB Ejection Module, Board to Board",No
+40.0,1110850,"ASM, Tray Right Blank Filler",No
+40.0,1110850-FLG,"ASM, Tray Right Blank Filler  ",No
+50.0,1117005,"ASM, EMI Fan Shield, Honeycomb rear shie",No
+60.0,1114467,"Screw, Flathead, Low thickness head, Phi",No
+70.0,1070156,"Option, Temperature Sensor, I2Cool, High",Yes
+80.0,1136785,"Options, Fan Assembly, 80x80x38 mm, Plas",Yes
+90.0,1136788,"Options, Heatsink, CPU, Astoria, PVT",Yes
+90.0,1142024,"Thermal Grease, Heatsink, 1 Gram (>0.4cc",No
+100.0,07002344,"Assy, Label, Part and Serial Number Spec",Yes
+110.0,07009507,"LABEL, MANUF ONLY, FIXED INSTALLATION",No
+110.0,1181928,"LABEL, MANUF ONLY, FIXED INSTALLATION, U",No
+120.0,1119041-06,Astoria_AGORA_V2AH_GA1(MEGTRON 4S+RG311),No
+120.0,1119041-07,Astoria_AGORA_V2AH_for-none-delta-MB,No
+120.0,1139708-02,"Assy, DC-SCM, AGORA V2AH, w/ BIOS & BMC,",No
+120.0,1139708-03,"Assy, DC-SCM, AGORA V2AH, w/ BIOS & BMC,",No
+130.0,1113348-10-REN,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1124992-04-INF,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1149398,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1167118,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1193245,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1206326-01-REN,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+130.0,1208021-01-REN,"Combo Assy, Motherboard+PRD 96C Genoa CP",No
+,1174345,"Option, Assy, PDB Power Module, Gulp 150",No
+10.0,1131563-02,"Assy, PDB Power Module, Gulp 1500W, Delt",Yes
+30.0,1163742-01,"Assy, PDB Power Module, Gulp 1500W, Flex",Yes
+,1136908-01,"Option, Network Card, PCIE, Diorite Full",No
+10.0,1125367-04,"NIC, Diorite B0 FullRock 48GB with Googl",No
+20.0,1125367-05,"NIC, Diorite B1 FullRock 48GB with Googl",No
+30.0,1125367-06,"NIC, Diorite B1 FullRock 48GB with Googl",No
+40.0,1158718-01,"NIC, Diorite B1 FullRock 48GB with G",No
+50.0,1158718-02,"NIC, Diorite B1 FullRock 48GB with Googl",No
+60.0,1158718-03,"NIC, Diorite B1 FullRock 48GB with Googl",No
+70.0,1170656-01,"NIC, Diorite B1 FullRock 48GB with Googl",No
+80.0,1170851-03,"NIC, Diorite B1 FullRock 48GB with Googl",No
+90.0,1158718-04,"NIC, Diorite B1 FullRock 48GB with Googl",No
+,1070156,"Option, Temperature Sensor, I2Cool, High",No
+70.0,1037037-05,"ASSY, PCBA, Temperature Sensor, I2C, Hig",No
+70.0,1066991-01,"ASSY, PCBA, Temperature Sensor, I2C, Hig",No
+80.0,1199152-01,"ASSY, PCBA, Temperature Sensor, I2C, Hig",No
+,1136785,"Options, Fan Assembly, 80x80x38 mm, Plas",No
+80.0,1091682,"Fan Assembly Mech, Izumi, 80x80x38 mm, P",No
+80.0,1127795,"Fan/Blower • Fan Assembly Mech, 80x80x38",No
+80.0,1127795-01,"Fan Assembly Mech, 80x80x38 mm, 16300RPM",No
+,1136788,"Options, Heatsink, CPU, Astoria, PVT",No
+10.0,1129298,"Assy, CPU Heatsink, 4 Al Finstack, 6 Cu",No
+20.0,1129299,"Assy, CPU Heatsink, 3 Al Finstack, 6 Cu",No
+,07002344,"Assy, Label, Part and Serial Number Spec",No
+10.0,07001541,"Label, 2"" x 0.75"", White, Polyester, Adh",No
+,1131563-02,"Assy, PDB Power Module, Gulp 1500W, Delt",No
+10.0,1088368-09,"PDB, PCBA, Power Supply Module, Gulp 150",No
+20.0,1088369-04,"FAB, PCB, PDB Adapter, Izumi, DVT1, RoHS",No
+20.0,1088369-05,"FAB, PCB, PDB Adapter, PVT, RoHS",No
+40.0,1110831,"Plastic, PDB Interposer Cradle w/ M3x3 T",No
+40.0,1110831-FMP,"Plastic, PDB Interposer Cradle w/ M3x3 T",No
+50.0,1110833,"ASM, PDB Bracket",No
+50.0,1110833-01,"ASM, PDB Bracket (Longer Latch Pins)",No
+50.0,1110833-01-FMP,"ASM, PDB Bracket (Longer Latch Pins)",No
+50.0,1110833-FMP,"ASM, PDB Bracket",No
+60.0,1110834,"ASM, PDB Cover",No
+60.0,1110834-FMP,"ASM, PDB Cover",No
+70.0,1110835-01,"ASM, PDB Fan Cage Bracket  ",No
+70.0,1110835-01-FMP,"ASM, PDB Fan Cage Bracket  ",No
+80.0,1110841,"Plastic, PDB Cable Duct w/ M3x3 Threaded",No
+80.0,1110841-FMP,"Plastic, PDB Cable Duct w/ Inserts",No
+90.0,1114467,"Screw, Flathead, Low thickness head, Phi",No
+100.0,1123800,"JDM, SCREW, Fan Screw, M4 18P x 7.5, #2",No
+110.0,1123801,"JDM, SCREW, #8-16 TAPPING x 9.5mm, #2 Ph",No
+120.0,1123858,"JDM, SCREW, M3 x 5, Flathead, with Nylok",No
+130.0,1123883,"JDM, SCREW, 6-32 x 3mm, Low-profile, wit",No
+140.0,1123885,"JDM, SCREW, M3 x 7.5, 2mm Shoulder, with",No
+150.0,1136712,"Options, Fan, 40x40x28 mm, PDB Gulp Powe",Yes
+160.0,1136783,"Option, Cable, Power, PDBB to Big Gulp P",Yes
+180.0,07002344,"Assy, Label, Part and Serial Number Spec",Yes
+190.0,1141680,"LABEL, agency, Super Big Gulp 1500, COO",No
+190.0,1196980,"LABEL, agency, Super Big Gulp 1500, 70 x",No
+,1163742-01,"Assy, PDB Power Module, Gulp 1500W, Flex",No
+10.0,1136783,"Option, Cable, Power, PDBB to Big Gulp P",Yes
+20.0,1110831,"Plastic, PDB Interposer Cradle w/ M3x3 T",No
+20.0,1110831-FMP,"Plastic, PDB Interposer Cradle w/ M3x3 T",No
+30.0,1110833-01,"ASM, PDB Bracket (Longer Latch Pins)",No
+30.0,1110833-01-FMP,"ASM, PDB Bracket (Longer Latch Pins)",No
+40.0,1110834,"ASM, PDB Cover",No
+40.0,1110834-FMP,"ASM, PDB Cover",No
+50.0,1110835-01,"ASM, PDB Fan Cage Bracket  ",No
+50.0,1110835-01-FMP,"ASM, PDB Fan Cage Bracket  ",No
+60.0,1110841,"Plastic, PDB Cable Duct w/ M3x3 Threaded",No
+60.0,1110841-FMP,"Plastic, PDB Cable Duct w/ Inserts",No
+70.0,1114467,"Screw, Flathead, Low thickness head, Phi",No
+80.0,1123800,"JDM, SCREW, Fan Screw, M4 18P x 7.5, #2",No
+90.0,1123801,"JDM, SCREW, #8-16 TAPPING x 9.5mm, #2 Ph",No
+100.0,1123858,"JDM, SCREW, M3 x 5, Flathead, with Nylok",No
+110.0,1123883,"JDM, SCREW, 6-32 x 3mm, Low-profile, wit",No
+120.0,1123885,"JDM, SCREW, M3 x 7.5, 2mm Shoulder, with",No
+130.0,1136712,"Options, Fan, 40x40x28 mm, PDB Gulp Powe",Yes
+140.0,07002344,"Assy, Label, Part and Serial Number Spec",Yes
+150.0,1141680,"LABEL, agency, Super Big Gulp 1500, COO",No
+150.0,1196980,"LABEL, agency, Super Big Gulp 1500, 70 x",No
+160.0,1088369-04,"FAB, PCB, PDB Adapter, Izumi, DVT1, RoHS",No
+160.0,1088369-05,"FAB, PCB, PDB Adapter, PVT, RoHS",No
+170.0,1163739-01,"PCBA Power Supply Module, Gulp 1500W, FR",No
+,1136712,"Options, Fan, 40x40x28 mm, PDB Gulp Powe",No
+10.0,1092676-01,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-12.6V",No
+20.0,1114809,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-13.2V",No
+30.0,1149170,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-13.2V",No
+,1136783,"Option, Cable, Power, PDBB to Big Gulp P",No
+10.0,10162405-1S2007LF,"Cable, Power, PDBB to Big Gulp Power mod",No
+20.0,2404258-3,"Cable, Power, PDBB to Big Gulp Power mod",No
+30.0,PCB012700386-2,"Cable,Power,PDBB to Big Gulp Power Modul",No
+40.0,10162405-1S2009LF,"Cable, Power, PDBB to Big Gulp Power Mod",No
+50.0,PCB012700386-4,"Cable, Power, PDBB to Big Gulp Power Mod",No
+60.0,2404258-4,"Cable,Power,PDBB to Big Gulp Power Modul",No
+,07002344,"Assy, Label, Part and Serial Number Spec",No
+10.0,07001541,"Label, 2"" x 0.75"", White, Polyester, Adh",No
+,1136783,"Option, Cable, Power, PDBB to Big Gulp P",No
+10.0,10162405-1S2007LF,"Cable, Power, PDBB to Big Gulp Power mod",No
+20.0,2404258-3,"Cable, Power, PDBB to Big Gulp Power mod",No
+30.0,PCB012700386-2,"Cable,Power,PDBB to Big Gulp Power Modul",No
+40.0,10162405-1S2009LF,"Cable, Power, PDBB to Big Gulp Power Mod",No
+50.0,PCB012700386-4,"Cable, Power, PDBB to Big Gulp Power Mod",No
+60.0,2404258-4,"Cable,Power,PDBB to Big Gulp Power Modul",No
+,1136712,"Options, Fan, 40x40x28 mm, PDB Gulp Powe",No
+10.0,1092676-01,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-12.6V",No
+20.0,1114809,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-13.2V",No
+30.0,1149170,"Fan, 40x40x28 mm, 25000 RPM, 10.8V-13.2V",No
+,07002344,"Assy, Label, Part and Serial Number Spec",No
+10.0,07001541,"Label, 2"" x 0.75"", White, Polyester, Adh",No
